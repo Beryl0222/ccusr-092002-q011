@@ -1,0 +1,17 @@
+{
+  "service": "dark-pattern-evidence",
+  "source_context": "http://health.people.com.cn/n1/2026/0901/c14739-40790422.html",
+  "sample": {
+    "case_id": "CP-202608-8921",
+    "transaction_nodes": [
+      {
+        "kind": "checkout_page",
+        "captured_at": "2026-08-18T20:11:00+08:00",
+        "sha256": "sample"
+      }
+    ],
+    "allegations": [
+      "default_opt_in"
+    ]
+  }
+}
